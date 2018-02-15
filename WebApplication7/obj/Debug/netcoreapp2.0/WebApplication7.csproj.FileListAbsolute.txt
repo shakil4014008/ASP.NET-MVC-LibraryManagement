@@ -1,0 +1,11 @@
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.0\WebApplication7.deps.json
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.0\WebApplication7.runtimeconfig.json
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.0\WebApplication7.runtimeconfig.dev.json
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.0\WebApplication7.dll
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.0\WebApplication7.pdb
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.0\WebApplication7.csprojResolveAssemblyReference.cache
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.0\WebApplication7.csproj.CoreCompileInputs.cache
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.0\WebApplication7.AssemblyInfoInputs.cache
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.0\WebApplication7.AssemblyInfo.cs
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.0\WebApplication7.dll
+c:\users\shakil4014008\source\repos\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.0\WebApplication7.pdb

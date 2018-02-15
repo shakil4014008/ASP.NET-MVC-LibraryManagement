@@ -1,0 +1,9 @@
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.deps.json
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryData\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csprojResolveAssemblyReference.cache
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryData\obj\Debug\netcoreapp2.0\LibraryData.pdb

@@ -1,0 +1,11 @@
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.deps.json
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csprojResolveAssemblyReference.cache
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfo.cs
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\shakil4014008\source\repos\WebApplication7\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.pdb
